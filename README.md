@@ -22,9 +22,13 @@ I'm a Bachelor in Information Management (BIM) student passionate about web deve
  
 - GitHub: https://github.com/Yushika-Pyakurel
 
+## ⚡ Tech Stack
+
 <p align="left">
-  https://skillicons.dev/icons?i=html,css,js,react,php,java,python,django
+  <img src="https://skillicons.dev/icons?i=htmlact,php,java,python,django
 </p>
+
+- 🗄️ Database: Microsoft SQL Server
 
 
  
