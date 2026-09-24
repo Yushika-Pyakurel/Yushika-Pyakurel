@@ -22,6 +22,7 @@ I'm a Bachelor in Information Management (BIM) student passionate about web deve
  
 - GitHub: https://github.com/Yushika-Pyakurel
 
+##Tech Stack
 <p>
 <img src="g.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 <img src="https://img.shieldsCSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
