@@ -12,7 +12,7 @@ I'm a Bachelor in Information Management (BIM) student passionate about web deve
 -  Continuously Learning and Expanding Technical Skills
 -  Aspiring Backend & Full-Stack Developer
 - Dedicated to Building Scalable, Efficient, and User-Friendly Applications
-- 
+  
 **Tools**
 - Git
 - GitHub
@@ -22,15 +22,15 @@ I'm a Bachelor in Information Management (BIM) student passionate about web deve
  
 - GitHub: https://github.com/Yushika-Pyakurel
 
-## 💻 Tech Stack
+## 💻 Tech Stack:
 
-![HTML5](https://img.shields.io/b5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-bo=css3&logoColor=white
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-ascript&logoColor=black
-![React](https://img.shields.io/badge/Reacttyle=for-the-badge&logo=react&logoColor=61DAFB
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=fordge&logo=php&logoColor=white
-![Java](https://img.shields.io/badge/Javastyle=for-the-badge&logo=openjdk&logoColor=white
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=oColor=white
-![Django](https://img.shields.io/badge2E20?style=for-the-badge&logo=django&logoColor=white
-![Microsoft SQL Server](https://img.shields.io/badge2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white
-
+![html5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-222222?style=flat&logo=javascript&logoColor=F7DF1E)
+![react](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=61DAFB)
+![php](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white)
+![java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
+![django](https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white)
