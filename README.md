@@ -21,4 +21,10 @@ I'm a Bachelor in Information Management (BIM) student passionate about web deve
 # Connect With Me
  
 - GitHub: https://github.com/Yushika-Pyakurel
+
+<p align="left">
+  https://skillicons.dev/icons?i=html,css,js,react,php,java,python,django
+</p>
+
+
  
