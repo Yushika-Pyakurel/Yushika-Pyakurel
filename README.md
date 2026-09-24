@@ -24,15 +24,15 @@ I'm a Bachelor in Information Management (BIM) student passionate about web deve
 
 ## 💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34Ffor-the-badge&logo=html5&logoColor=white
-![CSS3](https://img.shields.io/badge/CSS3style=for-the-badge&logo=css3&logoColor=white
-![JavaScript](https://img.shields.io/badge/JavaScript-Fr-the-badge&logo=javascript&logoColor=black
-![React](https://img.shields.io/badge/React-20232or-the-badge&logo=react&logoColor=61DAFB
-![PHP](https://img.shields.io/badge/PHP-style=for-the-badge&logo=php&logoColor=white
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=logoColor=white
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&white
-![Django](https://img.shields.io/badge2E20?style=for-the-badge&logo=django&logoColor=white
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927o=microsoftsqlserver&logoColor=white
+## 💻 Tech Stack
 
- 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34Ffor-the-badge&logo=html5&logoColor=white ![CSS3](https://img.shields.io/badge/CSS3style=for-the-badge&logo=css3&logoColor=white ![JavaScript](https://img.shields.io/badge/JavaScript-Fr-the-badge&logo=javascript&logoColor=black ![React](https://img.shields.io/badge/React-20232or-the-badge&logo=react&logoColor=61DAFB ![PHP](https://img.shields.io/badge/PHP-style=for-the-badge&logo=php&logoColor=white ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=logoColor=white ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&white ![Django](https://img.shields.io/badge2E20?style=for-the-badge&logo=django&logoColor=white ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927o=microsoftsqlserver&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+![Microsoft.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white
+
