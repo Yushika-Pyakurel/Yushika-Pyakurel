@@ -23,7 +23,7 @@ I'm a Bachelor in Information Management (BIM) student passionate about web deve
 - GitHub: https://github.com/Yushika-Pyakurel
 
 # Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yushika-Pyakurel&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yushika-Pyakurel)](https://git.io/streak-stats)
 
 ## 💻 Tech Stack:
 
