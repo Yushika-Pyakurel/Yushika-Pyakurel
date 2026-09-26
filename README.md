@@ -21,6 +21,7 @@ I'm a Bachelor in Information Management (BIM) student passionate about web deve
 # Connect With Me
  
 - GitHub: https://github.com/Yushika-Pyakurel
+- Instagram: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuushikkaa)
 
 # Contribution Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yushika-Pyakurel)](https://git.io/streak-stats)
